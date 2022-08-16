@@ -1,6 +1,7 @@
 # Demo page for using GitHub Pages
 
-https://gk3000.github.io/bananas/
+[Steps](https://ideal-chainsaw-1d4a318f.pages.github.io/#/js_cur/_html/Hosting-with-GitHub-Pages)
+[Results](https://gk3000.github.io/bananas/)
 
 🍌
 
