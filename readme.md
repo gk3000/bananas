@@ -6,4 +6,4 @@
 
 🍌
 
-<img src='https://barcelonacodeschool.com/static/BCS-LOGO-1000px-ddd4c04fd3a5549e151861ba8cdc56b2.jpg' alt='barcelona code school logo' width='200px'/>
+<a href='https://barcelonacodeschool.com' target='_blank'><img src='https://barcelonacodeschool.com/static/BCS-LOGO-1000px-ddd4c04fd3a5549e151861ba8cdc56b2.jpg' alt='barcelona code school logo' width='200px'/></a>
